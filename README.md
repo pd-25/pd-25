@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pd-25" alt="pd-25" /></a> </p>
 
-- 💬 Ask me about **Laravel, Livewire, React, Node, Data scrapping**
+- 💬 Ask me about **FastApi, Laravel, Livewire, React, Node, Data scrapping**
 
 - 📫 How to reach me **bhuinjohn@gmail.com**
 
