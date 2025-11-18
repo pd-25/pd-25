@@ -33,8 +33,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  <!-- Laravel (white / wordmark) -->  
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">  
+    <img src="https://www.svgrepo.com/svg/394247/laravel" alt="laravel" width="40" height="40"/>  
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -60,24 +61,24 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
-  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Beautiful_Soup_4_logo.svg" alt="beautifulsoup" width="40" height="40"/>
-  </a>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">  
+    <img src="https://icons8.com/icons/set/beautiful-soup-4" alt="beautifulsoup" width="40" height="40"/>  
+  </a> 
   <a href="https://puppeteer.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">  
+    <img src="https://icons8.com/icons/set/next.js-logo--white" alt="nextjs" width="40" height="40"/>  
+  </a> 
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Elasticsearch_Logo.png" alt="elasticsearch" width="40" height="40"/>
-  </a>
+ <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">  
+    <img src="https://www.svgrepo.com/svg/303574/elasticsearch-logo" alt="elasticsearch" width="40" height="40"/>  
+  </a> 
 </p>
 
 
